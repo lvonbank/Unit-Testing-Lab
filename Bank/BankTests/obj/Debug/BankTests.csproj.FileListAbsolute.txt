@@ -1,0 +1,9 @@
+c:\Users\Levi\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\BankTests.dll
+c:\Users\Levi\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\BankTests.pdb
+c:\Users\Levi\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\Bank.dll
+c:\Users\Levi\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Levi\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\Bank.pdb
+c:\Users\Levi\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\Levi\documents\visual studio 2015\Projects\Bank\BankTests\obj\Debug\BankTests.csprojResolveAssemblyReference.cache
+c:\Users\Levi\documents\visual studio 2015\Projects\Bank\BankTests\obj\Debug\BankTests.dll
+c:\Users\Levi\documents\visual studio 2015\Projects\Bank\BankTests\obj\Debug\BankTests.pdb
